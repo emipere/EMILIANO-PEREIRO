@@ -115,10 +115,7 @@ iframe {
     grid-row: 4/5;
     @media screen and (max-width: 500px) { grid-column: 1/6; justify-self: center;}
   }
-.footer{
-  grid-column: 1/6;
-  grid-row: 6/7;
-}
+  
 
 
   
